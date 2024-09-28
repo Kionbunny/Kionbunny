@@ -1,6 +1,6 @@
 HI 👋, I'm AJAY KUMAR
 ----
-a Final Year Undergraduate at NIT Warangal pursuing a degree in Electronics . As a Full Stack Developer, I have hands-on experience in building scalable web applications using a variety of technologies. My expertise spans both front-end and back-end development, with a focus on creating efficient, user-centric solutions that solve real-world problems.
+A Final Year Undergraduate at NIT Warangal pursuing a degree in Electronics . As a Full Stack Developer, I have hands-on experience in building scalable web applications using a variety of technologies. My expertise spans both front-end and back-end development, with a focus on creating efficient, user-centric solutions that solve real-world problems.
 
 I specialize in using JavaScript, TypeScript, and frameworks like React.js and Next.js for the front end, while leveraging Node.js, Express, and Azure on the back end. My passion lies in crafting clean, maintainable code, optimizing performance, and continuously learning emerging technologies.
 
