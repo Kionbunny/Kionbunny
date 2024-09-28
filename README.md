@@ -2,7 +2,7 @@ HI 👋, I'm AJAY KUMAR
 ----
 A Final Year Undergraduate at NIT Warangal pursuing a degree in Electronics . As a Full Stack Developer, I have hands-on experience in building scalable web applications using a variety of technologies. My expertise spans both front-end and back-end development, with a focus on creating efficient, user-centric solutions that solve real-world problems.
 
-I specialize in using JavaScript, TypeScript, and frameworks like React.js and Next.js for the front end, while leveraging Node.js, Express, and Azure on the back end. My passion lies in crafting clean, maintainable code, optimizing performance, and continuously learning emerging technologies.
+I specialize in using JavaScript, TypeScript, and frameworks like React.js and Next.js for the front end, while leveraging Node.js, Express on the backend with Azure cloud services for deployment . My passion lies in crafting clean, maintainable code, optimizing performance, and continuously learning emerging technologies.
 
 Throughout my academic journey, I have actively participated in collaborative projects, hackathons, and internships that have further strengthened my problem-solving and teamwork skills. I’m deeply interested in designing and deploying solutions that bridge the gap between technology and users.
 
@@ -20,6 +20,8 @@ Throughout my academic journey, I have actively participated in collaborative pr
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 
