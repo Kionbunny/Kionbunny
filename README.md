@@ -32,7 +32,7 @@ Throughout my academic journey, I have actively participated in collaborative pr
   <a href="https://linkedin.com/in/ajaykumar31"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/mashapoguajay_124"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
-
+----
 
 ### Below is the link to my portfolio 👇
 https://66f94972576d5e296c3bb292--sunny-rabanadas-3642c3.netlify.app/
