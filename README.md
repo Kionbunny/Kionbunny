@@ -1,10 +1,10 @@
 HI 👋, I'm AJAY KUMAR
 ----
-A Final Year Undergraduate at NIT Warangal pursuing a degree in Electronics . As a Full Stack Developer, I have hands-on experience in building scalable web applications using a variety of technologies. My expertise spans both front-end and back-end development, with a focus on creating efficient, user-centric solutions that solve real-world problems.
+I am a Graduate from **NIT Warangal** with a degree in Electronics, currently working as a **Software Engineer at HCLTech**. As a Full Stack Developer, I have hands-on experience in building scalable web applications using a variety of technologies. My expertise spans both front-end and back-end development, with a focus on creating efficient, user-centric solutions that solve real-world problems.
 
-I specialize in using JavaScript, TypeScript, and frameworks like React.js and Next.js for the front end, while leveraging Node.js, Express on the backend with Azure cloud services for deployment . My passion lies in crafting clean, maintainable code, optimizing performance, and continuously learning emerging technologies.
+I specialize in JavaScript, TypeScript, and frameworks like React.js and Next.js for the front end, while leveraging Node.js and Express on the backend, with Azure cloud services for deployment. My passion lies in crafting clean, maintainable code, optimizing performance, and continuously learning emerging technologies.
 
-Throughout my academic journey, I have actively participated in collaborative projects, hackathons, and internships that have further strengthened my problem-solving and teamwork skills. I’m deeply interested in designing and deploying solutions that bridge the gap between technology and users.
+Throughout my academic journey at NIT Warangal and professional experience at HCLTech, I have actively worked on collaborative projects, hackathons, and real-world applications that strengthened my problem-solving, teamwork, and software engineering skills. I am deeply interested in designing and deploying solutions that bridge the gap between technology and users.
 
 
 ----
